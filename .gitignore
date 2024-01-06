@@ -341,4 +341,9 @@ spark-warehouse/
 .history
 .ionide
 
+
+.bloop/
+.metals/
+archive
+
 # End of https://www.toptal.com/developers/gitignore/api/scala,spark,visualstudiocode,intellij,eclipse,maven,java
